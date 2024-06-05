@@ -1,4 +1,4 @@
-# Repo content
+# Document content
 
 This repository contains sadsheets, scripts and files I have been using during my learning experience. Excercises were mostly provided by CodeCademy platform that I am a member of. Folders are devided for:
 
